@@ -95,5 +95,3 @@ Este repositório foi desenvolvido **para fins acadêmicos** e faz parte da jorn
 Sinta-se à vontade para contribuir, sugerir melhorias e reutilizar os exemplos em seus estudos.
 
 ---
-
-```
